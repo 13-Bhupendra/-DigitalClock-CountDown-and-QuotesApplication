@@ -1,4 +1,4 @@
-# Time CountDown  ---  Auto Quotes Changer --- DigitalClock
+# Time CountDown  ---  Auto Quotes Changer --- DigitalClock --- Slider
 
 
 # **Countdown Timer Web App**
@@ -131,4 +131,41 @@ This is a simple and modern digital clock that displays the current time and dat
 
 
 https://github.com/user-attachments/assets/f2286536-22eb-47ef-a8ee-ca3208378002
+
+<br><br><hr><hr>
+
+### <h1>Testimonial Image Slider </h1> 
+This project is a responsive and modern testimonial-style image slider built using HTML, CSS, and JavaScript. It offers both automatic sliding and manual navigation with a smooth, professional interface.
+
+### Features:
+Frosted glass card design with clean layout and transitions
+
+Auto-slide functionality with next/previous navigation
+
+Smooth image transitions with circular looping
+
+Lightweight and dependency-free (uses Bootstrap Icons for arrows)
+
+### Technologies Used:
+HTML5
+
+CSS3 (Flexbox, gradients, blur effects)
+
+Vanilla JavaScript (for functionality and auto-play)
+
+### Live Project & Repository:
+GitHub Repository – Testimonial Slider
+
+### How to Use:
+Clone or download the repository
+
+Replace the images in the /images folder with your own
+
+Open index.htm in your browser
+
+
+
+https://github.com/user-attachments/assets/8abf6208-0244-48bf-8359-d473df2d102d
+
+
 
