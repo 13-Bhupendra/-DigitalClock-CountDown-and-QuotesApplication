@@ -154,7 +154,7 @@ CSS3 (Flexbox, gradients, blur effects)
 Vanilla JavaScript (for functionality and auto-play)
 
 ### Live Project & Repository:
-GitHub Repository – Testimonial Slider
+GitHub Repository – <a href"https://github.com/13-Bhupendra/DigitalClock-CountDown-Slider-and-QuotesApplication/tree/main/Sliding%20Slider">Testimonial Slider</a>
 
 ### How to Use:
 Clone or download the repository
